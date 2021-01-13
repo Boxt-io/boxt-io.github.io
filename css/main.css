@@ -1,3 +1,9 @@
 h1 {
     font-size: 3rem;
 }
+
+.nav__beta_button {
+	background-color: #6c63ff;
+	border: 2px solid #7871e1;
+	color: #fff;
+}
